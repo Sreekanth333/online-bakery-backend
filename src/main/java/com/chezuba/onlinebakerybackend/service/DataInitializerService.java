@@ -55,7 +55,7 @@ public class DataInitializerService {
         orderList.add(new Orders(28, 160, 190, "Cake", "Delivered", null, null));
         orderList.add(new Orders(29, 130, 120, "Cookies", "Delivered", null, null));
         orderList.add(new Orders(30, 160, 150, "Muffins", "Shipped", null, null));
-
+        orderList.add(new Orders(31, 160, 150, "Muffins", "Shipped", null, null));
     return orderList;
     }
 }
